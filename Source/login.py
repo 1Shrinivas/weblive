@@ -88,16 +88,4 @@ login_page = html.Div([
     'margin': '0',
     'padding': '0',
     'overflowX': 'hidden',
-    'position': 'fixed',
 })
-# ], style={'position': 'fixed', 'top': '0', 'left': '0', 'width': '100%', 'height': '100%',
-#           'overflow': 'hidden', 'opacity': '0.8',
-#           "backgroundImage": 'url("assets/shutter.jpg")',
-#           'backgroundRepeat': 'no-repeat',
-#           'backgroundPosition': 'center center',
-#           'backgroundAttachment': 'fixed',
-#           'backgroundSize': 'cover',
-#           'display': 'flex',
-#           'alignItems': 'center',
-#           'justifyContent': 'center'
-#           })
